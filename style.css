@@ -7,6 +7,8 @@
 }
 .links {
     color:rgb(234, 63, 220);
+    padding: 1%;
+    font-size: 200%;
 }
 html {
     height: 100%;
